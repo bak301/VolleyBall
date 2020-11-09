@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 7a702d69e24224d4a90b8a673ab3e8b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bouncelessBall: {fileID: 6200000, guid: 12199f6c5c9f06a448674f76174f82b2, type: 2}
+  - bouncyBall: {fileID: 6200000, guid: c4d004103a671764fac3b9e63acec15c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
